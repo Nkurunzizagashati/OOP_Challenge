@@ -17,4 +17,5 @@ class Apartment {
   }
 }
 
+// Export the apartment class
 module.exports = Apartment;
