@@ -1,3 +1,3 @@
 # University residence management system
 
-''built with JS classes''
+built with JS classes
