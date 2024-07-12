@@ -17,4 +17,6 @@ class DormRoom {
   }
 }
 
+// Export the DormRoom class
+
 module.exports = DormRoom;

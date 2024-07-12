@@ -17,4 +17,6 @@ class MaintenanceRequest {
   }
 }
 
+// Export the MaintenanceRequest class
+
 module.exports = MaintenanceRequest;
